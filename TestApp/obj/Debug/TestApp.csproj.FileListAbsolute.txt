@@ -1,0 +1,7 @@
+C:\Learning\Github workflow\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Learning\Github workflow\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Learning\Github workflow\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Learning\Github workflow\TestApp\TestApp\obj\Debug\TestApp.csprojAssemblyReference.cache
+C:\Learning\Github workflow\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Learning\Github workflow\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Learning\Github workflow\TestApp\TestApp\obj\Debug\TestApp.pdb

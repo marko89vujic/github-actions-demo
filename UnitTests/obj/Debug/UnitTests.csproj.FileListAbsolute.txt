@@ -1,0 +1,12 @@
+C:\Learning\Github workflow\TestApp\UnitTests\bin\Debug\UnitTests.dll
+C:\Learning\Github workflow\TestApp\UnitTests\bin\Debug\UnitTests.pdb
+C:\Learning\Github workflow\TestApp\UnitTests\obj\Debug\UnitTests.csprojAssemblyReference.cache
+C:\Learning\Github workflow\TestApp\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Learning\Github workflow\TestApp\UnitTests\obj\Debug\UnitTests.dll
+C:\Learning\Github workflow\TestApp\UnitTests\obj\Debug\UnitTests.pdb
+C:\Learning\Github workflow\TestApp\UnitTests\bin\Debug\nunit.framework.dll
+C:\Learning\Github workflow\TestApp\UnitTests\bin\Debug\TestApp.exe
+C:\Learning\Github workflow\TestApp\UnitTests\bin\Debug\TestApp.pdb
+C:\Learning\Github workflow\TestApp\UnitTests\bin\Debug\TestApp.exe.config
+C:\Learning\Github workflow\TestApp\UnitTests\bin\Debug\nunit.framework.xml
+C:\Learning\Github workflow\TestApp\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
