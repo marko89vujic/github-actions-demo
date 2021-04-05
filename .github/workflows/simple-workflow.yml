@@ -34,4 +34,4 @@ jobs:
       run:  msbuild TestApp.sln
       
     - name: Run Unit Tests
-      run:  dotnet test TestApp.sln
+      run:  dotnet test UnitTests\UnitTests.csproj
