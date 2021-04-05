@@ -32,3 +32,6 @@ jobs:
     
     - name: Build solution
       run:  msbuild TestApp.sln
+      
+    - name: Run Unit Tests
+      run:  nunit-console ./UnitTests/UnitTests.csproj
